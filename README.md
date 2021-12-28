@@ -30,7 +30,7 @@ Here are some ideas to get you started:
    <div>
       <!-- 额外的pins -->
       <a href="https://github.com/whwuhan">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan" />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
       </a>
    </div>
 </div>
