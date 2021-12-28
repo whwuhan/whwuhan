@@ -15,20 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
+   <!-- github统计 -->
    <div>
-      <!-- github统计 -->
       <a href="https://github.com/whwuhan">
          <img src="https://github-readme-stats.vercel.app/api?username=whwuhan&theme=tokyonight&show_icons=true&count_private=true" />
       </a>
+   </div>
+   
+   <!-- 语言统计 -->
+   <div>
       <a href="https://github.com/whwuhan">
-         <!-- 语言统计 -->
          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
       </a>
    </div>
-
-   <div>
-      
-   </div>
+   
+   <!-- 额外的pins -->
    <div>
       <a href="https://github.com/whwuhan/Coolender">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=whwuhan&repo=Coolender" />
