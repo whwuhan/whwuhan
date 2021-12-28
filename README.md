@@ -27,8 +27,13 @@ Here are some ideas to get you started:
          <!-- 语言统计 -->
          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
       </a>
-      <a href="https://github.com/whwuhan">
+   </div>
+   <div>
+      <a href="https://github.com/whwuhan/Coolender">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=whwuhan&repo=Coolender" />
+      </a>
+      <a href="https://github.com/whwuhan/Registration">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=whwuhan&repo=Registration" />
       </a>
    </div>
 </div>
