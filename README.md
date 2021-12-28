@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<div style="display:flex">
    
    <div  style="display:inline-block">
       <!-- github统计 -->
