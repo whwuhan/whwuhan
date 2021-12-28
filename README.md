@@ -21,19 +21,19 @@ Here are some ideas to get you started:
       <a href="https://github.com/whwuhan">
          <img src="https://github-readme-stats.vercel.app/api?username=whwuhan&theme=tokyonight&show_icons=true&count_private=true" />
       </a>
-      
-      <!-- 额外的pins -->
-      <a href="">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=whwuhan&repo=Coolender" />
-      </a>
    </div>
    <!-- 擅长语言 -->
-   <div align="left">
+   <div align="left" style="display:inline-block">
       <a href="https://github.com/whwuhan">
          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan" />
       </a>
+      <!-- 额外的pins -->
+
    </div>
 </div>
+      <a href="">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=whwuhan&repo=Coolender" />
+      </a>
 
 
 
