@@ -23,12 +23,12 @@ Here are some ideas to get you started:
    </div>
 
    <div>
-      <!-- 擅长的语言 -->
+
       <a href="https://github.com/whwuhan">
          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
       </a>
       
-      <!-- 额外的pins -->
+
       <a href="https://github.com/whwuhan">
          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
       </a>
