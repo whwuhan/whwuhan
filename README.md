@@ -19,12 +19,14 @@ Here are some ideas to get you started:
    <a href="https://github.com/whwuhan">
       <img src="https://github-readme-stats.vercel.app/api?username=whwuhan&theme=tokyonight&show_icons=true&count_private=true&layout=compact" />
    </a>
-   <a href="https://github.com/whwuhan">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
-   </a>
+
   
 </p>
 
-
+<p align="right">
+   <a href="https://github.com/whwuhan">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
+   </a>
+</p>
 
 
