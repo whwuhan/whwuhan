@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 <p align="left">
    <a href="https://github.com/whwuhan">
       <img src="https://github-readme-stats.vercel.app/api?username=whwuhan&theme=tokyonight&show_icons=true&count_private=true&layout=compact" />
+   </a>
+   <a href="https://github.com/whwuhan">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
    </a>
+  
 </p>
 
 
-[![wuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=whwuhan&theme=tokyonight&show_icons=true&count_private=true&layout=compact)](https://github.com/whwuhan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact)](https://github.com/whwuhan)
 
 
