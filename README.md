@@ -16,25 +16,20 @@ Here are some ideas to get you started:
 -->
 <div>
    <!-- github统计 -->
-   <div style="float:left">
+   <div>
       <a href="https://github.com/whwuhan">
          <img src="https://github-readme-stats.vercel.app/api?username=whwuhan&theme=tokyonight&show_icons=true&count_private=true&layout=compact" />
       </a>
    </div>
    <!-- 擅长语言 -->
-   <div style="float:right">
+   <div align="right">
       <a href="https://github.com/whwuhan">
          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
       </a>
    </div>
 
 </div>
-   <div style="float:left">
-      123
-   </div>
-   <div style="float:left">
-      123
-   </div>
+
 
 
 
