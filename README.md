@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![wuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=whwuhan&theme=tokyonight&show_icons=true&count_private=true&layout=compact)](https://github.com/whwuhan)
+[![wuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=whwuhan&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/whwuhan)
 
 
