@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[//]:# 统计信息
-[//]: # (哈哈我是注释，不会在浏览器中显示。)
+<div style='display:none'>abc </div>
 ![wuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=whwuhan&count_private=true)
