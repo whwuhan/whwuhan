@@ -23,7 +23,7 @@ Here are some ideas to get you started:
       
       <!-- 擅长语言 -->
       <a href="https://github.com/whwuhan">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan" />
       </a>
    </div>
 
