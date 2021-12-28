@@ -21,6 +21,9 @@ Here are some ideas to get you started:
       <a href="https://github.com/whwuhan">
          <img src="https://github-readme-stats.vercel.app/api?username=whwuhan&theme=tokyonight&show_icons=true&count_private=true" />
       </a>
+      <a href="https://github.com/whwuhan">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan" />
+      </a>
       <!-- 额外的pins -->
       <a href="">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=whwuhan&repo=Coolender" />
