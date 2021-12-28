@@ -27,7 +27,10 @@ Here are some ideas to get you started:
          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
       </a>
    </div>
-   <div style="display:inline;width=200px;height=100px">
+   <div style="display:inline">
+      123
+   </div>
+   <div style="display:inline">
       123
    </div>
 </div>
