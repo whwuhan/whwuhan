@@ -17,25 +17,25 @@ Here are some ideas to get you started:
 <div>
    <!-- github统计 -->
    <div>
-      <a href="https://github.com/whwuhan" alien="center">
-         <img src="https://github-readme-stats.vercel.app/api?username=whwuhan&theme=tokyonight&show_icons=true&count_private=true" />
+      <a href="https://github.com/whwuhan">
+         <img align="center" src="https://github-readme-stats.vercel.app/api?username=whwuhan&theme=tokyonight&show_icons=true&count_private=true" />
       </a>
    </div>
    
    <!-- 语言统计 -->
    <div>
-      <a href="https://github.com/whwuhan" alien="center">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
+      <a href="https://github.com/whwuhan">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
       </a>
    </div>
    
    <!-- 额外的pins -->
    <div>
-      <a href="https://github.com/whwuhan/Coolender" alien="center">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=whwuhan&repo=Coolender" />
+      <a href="https://github.com/whwuhan/Coolender">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whwuhan&repo=Coolender" />
       </a>
-      <a href="https://github.com/whwuhan/Registration" alien="center">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=whwuhan&repo=Registration" />
+      <a href="https://github.com/whwuhan/Registration">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whwuhan&repo=Registration" />
       </a>
    </div>
 </div>
