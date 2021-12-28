@@ -24,8 +24,11 @@ Here are some ideas to get you started:
    <!-- 擅长语言 -->
    <div style="display:inline;width=200px;height=100px">
       <a href="https://github.com/whwuhan">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" style="display:inline;width=200px;height=100px />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
       </a>
+   </div>
+   <div style="display:inline;width=200px;height=100px">
+      123
    </div>
 </div>
 
