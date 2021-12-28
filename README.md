@@ -1,4 +1,4 @@
-### Hi there 👋
+### A code blender who’s interested in computer graphics.
 
 <!--
 **whwuhan/whwuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 游戏
+
 [![wuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=whwuhan&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/whwuhan)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact)](https://github.com/whwuhan)
