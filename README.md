@@ -24,7 +24,7 @@ Here are some ideas to get you started:
    <!-- 擅长语言 -->
    <div style="display:inline;width=200px;height=100px">
       <a href="https://github.com/whwuhan">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" style="display:inline;width=200px;height=100px />
       </a>
    </div>
 </div>
