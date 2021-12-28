@@ -1,4 +1,4 @@
-# A code blender who’s interested in computer graphics.
+# <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> A code blender who’s interested in computer graphics.
 
 <!--
 **whwuhan/whwuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,23 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 首页自定义介绍 -->
+
 <div>
+   <!-- github统计 -->
+   <div  align="left">
+      <a href="https://github.com/whwuhan">
+         <img src="https://github-readme-stats.vercel.app/api?username=whwuhan&theme=default&show_icons=true&count_private=true" />
+      </a>
+      <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
+   </div>
+
+   
+   <HR/>
+
    <!-- 语言统计 -->
-   <div  align="center">
+   <div  align="left">
       <a href="https://github.com/whwuhan">
          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
       </a>
    </div>
    
-   <!-- github统计 -->
-   <div  align="center">
-      <a href="https://github.com/whwuhan">
-         <img src="https://github-readme-stats.vercel.app/api?username=whwuhan&theme=default&show_icons=true&count_private=true" />
-      </a>
-   </div>
-   
    <!-- 额外的pins -->
-   <div align="center">
+   <!--
+   <div align="left">
       <a href="https://github.com/whwuhan/Coolender">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=whwuhan&repo=Coolender" />
       </a>
@@ -38,6 +45,7 @@ Here are some ideas to get you started:
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=whwuhan&repo=Registration" />
       </a>
    </div>
+   -->
 </div>
 
 
