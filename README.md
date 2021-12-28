@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*[@_@]: 统计信息
+[//]:# 统计信息
 ![wuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=whwuhan&count_private=true)
