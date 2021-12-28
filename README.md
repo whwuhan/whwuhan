@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [//]:# 统计信息
+[//]: # (哈哈我是注释，不会在浏览器中显示。)
 ![wuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=whwuhan&count_private=true)
