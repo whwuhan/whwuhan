@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div>
    <!-- github统计 -->
-   <div align="right">
+   <div align="left">
       <a href="https://github.com/whwuhan">
          <img src="https://github-readme-stats.vercel.app/api?username=whwuhan&theme=tokyonight&show_icons=true&count_private=true&layout=compact" />
       </a>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
    <!-- 擅长语言 -->
    <div align="left">
       <a href="https://github.com/whwuhan">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan" />
       </a>
    </div>
 </div>
