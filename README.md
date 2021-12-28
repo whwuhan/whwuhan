@@ -14,18 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 擅长语言 -->
-<p align="center">
-   <a href="https://github.com/whwuhan">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
-   </a>
-</p>
-<!-- github统计 -->
-<p align="center">
-   <a href="https://github.com/whwuhan">
-      <img src="https://github-readme-stats.vercel.app/api?username=whwuhan&theme=tokyonight&show_icons=true&count_private=true&layout=compact" />
-   </a>
-</p>
+<div>
+   <!-- 擅长语言 -->
+   <span align="center">
+      <a href="https://github.com/whwuhan">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
+      </a>
+   </span>
+   <!-- github统计 -->
+   <span align="center">
+      <a href="https://github.com/whwuhan">
+         <img src="https://github-readme-stats.vercel.app/api?username=whwuhan&theme=tokyonight&show_icons=true&count_private=true&layout=compact" />
+      </a>
+   </span>
+</div>
+
 
 
 
