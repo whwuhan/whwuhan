@@ -16,21 +16,21 @@ Here are some ideas to get you started:
 -->
 <div>
    <!-- github统计 -->
-   <div style="display:inline;width=100px;height=100px">
+   <div style="float:left">
       <a href="https://github.com/whwuhan">
          <img src="https://github-readme-stats.vercel.app/api?username=whwuhan&theme=tokyonight&show_icons=true&count_private=true&layout=compact" />
       </a>
    </div>
    <!-- 擅长语言 -->
-   <div style="display:inline;width=200px;height=100px">
+   <div style="float:left">
       <a href="https://github.com/whwuhan">
          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
       </a>
    </div>
-   <div style="display:inline">
+   <div style="float:left">
       123
    </div>
-   <div style="display:inline">
+   <div style="float:left">
       123
    </div>
 </div>
