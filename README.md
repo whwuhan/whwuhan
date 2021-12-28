@@ -23,9 +23,11 @@ Here are some ideas to get you started:
    </div>
 
    <div>
-      <!-- 语言统计 -->
       <a href="https://github.com/whwuhan">
+         <!-- 语言统计 -->
          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
+      </a>
+      <a href="https://github.com/whwuhan">
          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
       </a>
    </div>
