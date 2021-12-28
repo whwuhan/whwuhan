@@ -30,10 +30,12 @@ Here are some ideas to get you started:
    </div>
    
    <!-- 额外的pins -->
-   <div>
+   <div align="right">
       <a href="https://github.com/whwuhan/Coolender">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=whwuhan&repo=Coolender" />
       </a>
+  </div>
+  <div align="left">
       <a href="https://github.com/whwuhan/Registration">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=whwuhan&repo=Registration" />
       </a>
