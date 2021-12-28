@@ -22,7 +22,6 @@ Here are some ideas to get you started:
       <a href="https://github.com/whwuhan">
          <img src="https://github-readme-stats.vercel.app/api?username=whwuhan&theme=default&show_icons=true&count_private=true" />
       </a>
-      <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
    </div>
 
    
@@ -33,6 +32,7 @@ Here are some ideas to get you started:
       <a href="https://github.com/whwuhan">
          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whwuhan&layout=compact" />
       </a>
+      <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
    </div>
    
    <!-- 额外的pins -->
